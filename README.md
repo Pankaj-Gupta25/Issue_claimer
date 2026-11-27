@@ -1,5 +1,7 @@
 # Issue Radar
 
+[![CI](https://github.com/Pankaj-Gupta25/Issue_claimer/actions/workflows/ci.yml/badge.svg)](https://github.com/Pankaj-Gupta25/Issue_claimer/actions/workflows/ci.yml)
+
 A personal tool that watches the GitHub repos you choose and spots new issues worth claiming within about a minute of them being opened.
 
 **Current state: phase 3 of 5.** It detects new issues, runs them through your filters, shows on a dashboard what it *would* claim and why it skipped the rest, and **emails you** about the ones worth claiming. **It never posts to GitHub.** Posting comes in a later phase.
